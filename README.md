@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/HPUhushicheng">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Remember+Who+You+Are);无人知我来时路.&center=true&size=18">
+  <a href="https://github.com/Wayne0127">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Remember+Who+You+Are);Keep Clam And Carry On.&center=true&size=18">
 
   </a>
 <picture>
