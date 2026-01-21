@@ -39,5 +39,5 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,c,cpp,go,java,php,bash,md,latex,react,vite,nodejs,express,flutter,electron,tauri,fastapi,flask,nginx,wordpress,mysql,postgres,pytorch,tensorflow,opencv,docker,kubernetes,git,linux,ubuntu,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=py,opencv,docker,git,linux,torch" />
 </p>
