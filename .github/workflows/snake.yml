@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  # 每天午夜自动运行
+  schedule:
+    - cron: "0 0 * * *" 
+  # 允许手动触发（方便您测试）
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          # 这里的名字要和您的 GitHub 用户名一致
+          github_user_name: Wayne0127
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
