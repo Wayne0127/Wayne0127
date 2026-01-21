@@ -9,17 +9,29 @@
   </picture>
 </h1>
 
+<!-- <h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wayne0127&label=Profile%20views&color=0e75b6&style=flat" alt="Wayne0127" />
+</p> -->
+
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center">
-  <a href="https://u8views.com/github/Wayne0127">
-    <img src="https://u8views.com/api/v1/github/profiles/Wayne0127/views/day-week-month-total-count.svg" />
-  </a>
-</p>
 
-<h4 align="center">Github stats :bar_chart:</h4>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wayne0127&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Wayne0127's GitHub stats" />
-</div>
+  <img src="https://count.getloli.com/get/@Wayne0127?theme=rule34" alt="Wayne0127" />
+</p> 
+
+<!-- <h4 align="center">Visitor's count :eyes:</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wayne0127&style=for-the-badge&color=blueviolet" alt="Wayne0127" />
+</p> -->
+
+<!-- <h4 align="center">Visitor's count :eyes:</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wayne0127&style=flat-square&label=VIEWS&color=lightgrey" alt="Wayne0127" />
+</p> -->
+
+
 
 <h4 align="center">Top langs :tongue:</h4>
 <p align="center">
